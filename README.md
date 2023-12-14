@@ -7,11 +7,12 @@
 
 
 ### Encontre-me Por aqui :earth_americas:
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-spizzirri/)
+<a href="https://www.linkedin.com/in/lucas-spizzirri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:lm.spizzirri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
 
-## Tecnologias e Frameworks
+### Tecnologias e Frameworks
 <div align="left" style="display: inline_block">
   <img alt="JS Vanilla" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="36" width="48" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
