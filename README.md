@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá! Sou Lucas :wave:
+
+* :earth_americas: Sou morador do Rio de Janeiro.
+* :computer: Sou um Desenvolvedor Web Full-Stack com foco em backend.
+* :books: Atualmente estudando Java.
+* :sunglasses: Tenho projetos Front-end, Back-end e FullStack em meus repositórios 😁.
+
+
+### Encontre-me Por aqui :earth_americas:
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-spizzirri/)
+
 
 <!--
 **lmspizzirri/lmspizzirri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
